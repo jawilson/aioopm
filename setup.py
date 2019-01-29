@@ -1,8 +1,5 @@
 from setuptools import setup, find_packages
 
-
-long_description = open('README.md').read()
-
 setup(
     name='aioopm',
     version='0.0.0',
